@@ -5,6 +5,8 @@ Multi-label classification of responses to divergent thinking tasks
 
 1. Improve the introduction + methods section and write a new proposal. More specific focus on the multi-label problem and previous work on the classification of data related to divergent thinking tasks. Moreover, change the current methods section to new findings. Such as the universal sentence encoder (Google, 2019), which could be used for semantic similarity measurements. 
 
+link to USE: https://tfhub.dev/google/universal-sentence-encoder-multilingual/3
+
 2. Update the code and think of better hyperparameter tuning etc.. Also, transfer final dataframe to python, there are more possibilities for neural networks (keras and tenserflow). 
 
 3. Maybe compare neural networks for multi-lable classification to latent dirichlet allocation 
