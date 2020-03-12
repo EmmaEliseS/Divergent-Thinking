@@ -11,4 +11,4 @@ Multi-label classification of responses to divergent thinking tasks
 
 4. We could also think about improvements of data collection (I think the data could be classified better, for example by using less categories or letting more people classify smaller subsets of the data)
 
-Please update if there are more things you can think of!
+Please update if there are more changes you can think of!
